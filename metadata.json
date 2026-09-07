@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Viji Ma'am",
+  "description": "A thoughtfully designed, elegant personal digital birthday experience created for CEO Viji Ma’am.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
