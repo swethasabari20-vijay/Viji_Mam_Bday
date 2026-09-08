@@ -98,7 +98,7 @@ export const BIRTHDAY_CONFIG: BirthdayContent = {
   screen1: {
     teaserBadge: "A LITTLE SURPRISE AWAITS…",
     heading: "For Someone Extraordinary ❤️",
-    description: "I couldn't be at the office to wish you in person tomorrow, so I thought of doing something a little different.",
+    description: "I couldn't be at the office to wish you in person today, so I thought of doing something a little different.",
     buttonText: "Open Your Surprise ✨",
   },
   screen2: {
